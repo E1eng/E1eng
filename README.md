@@ -1,5 +1,3 @@
-<h1 align="center">Eleng</h1>
-
 <p align="center">
   <strong>Web3 Developer · Full-Stack Applications</strong><br>
   Building applications across EVM, Solana, and Movement.
@@ -14,14 +12,14 @@
 
 I’m a developer who enjoys solving problems and turning ideas into useful applications. I’m curious about new technologies and keep learning through building and experimenting.
 
-Based in Indonesia. **Hackathon winner in IP finance and confidential on-chain applications.**
+Based in Indonesia. 
 
 ## 🏆 Hackathon Winners
 
 ### [Sovry](https://github.com/E1eng/Sovry)
 **IP-backed token launchpad**
 
-🏆 **Top Prize — IPFi**, Surreal World Asset · Story Protocol × Encode Club
+🏆 **Top Prize — IPFi**, Surreal World Asset Buildathon · Story Protocol × Encode Club
 
 A launchpad on Story Protocol that connects IP assets with token markets. Creators lock royalty tokens to launch tradable tokens through bonding curves, with DEX graduation and royalty integration.
 
@@ -33,7 +31,7 @@ A launchpad on Story Protocol that connects IP assets with token markets. Creato
 ### [ZeroSight](https://github.com/E1eng/ZeroSight)
 **Confidential prediction market**
 
-🏆 **App Track Winner**, Confidential Data Rails (CDR) · The Data Foundation Builders
+🏆 **App Track Winner**, Confidential Data Rails (CDR) Hackathon · The Data Foundation Builders
 
 A blind parimutuel prediction market on Story Aeneid. Betting choices are encrypted using Story's Confidential Data Rails, with a reveal and settlement workflow after betting closes.
 
@@ -46,10 +44,10 @@ A blind parimutuel prediction market on Story Aeneid. Betting choices are encryp
 
 | Project | What it does | Links |
 | --- | --- | --- |
-| **IPScope** | Analytics for Story Protocol IP assets: royalties, licensing, asset relationships, and transaction activity. Built with React, Vite, Node.js, and Express. | [Code](https://github.com/E1eng/IP-Scope) · [Website](https://ip-scope-server-nine.vercel.app) |
+| **IPScope** | Analytics for Story Protocol IP assets: royalties, licensing, asset relationships, and transaction activity. Built with React, Vite, Node.js, and Express. | [Code](https://github.com/E1eng/IP-Scope) · [Website](https://ipscope.eleng.xyz) |
 | **Arxcess** | Encrypted digital goods marketplace on Solana Devnet. Combines browser-side encryption, Arcium confidential compute, and buyer-bound key delivery. Built with Next.js, TypeScript, Rust, and Anchor. | [Code](https://github.com/E1eng/arxcess) · [Website](https://arxcess.eleng.xyz) |
-| **MoveSafe** | Multisignature treasury interface for Movement, with transaction drafts, asynchronous signature collection, and native MultiEd25519 authorization. Built with Next.js, TypeScript, and Supabase. | [Code](https://github.com/E1eng/movesafe) · [Website](https://movesafe-zeta.vercel.app) |
-| **Poseidon Voice Data Collection** | Dashboard tracking voice-data collection counts across 16 language collections on Story Protocol. Built with JavaScript, Node.js, and Express. | [Code](https://github.com/E1eng/Poseidon-Voice-Data-Collection) · [Website](https://psdn-collection.vercel.app) |
+| **MoveSafe** | Multisignature treasury interface for Movement, with transaction drafts, asynchronous signature collection, and native MultiEd25519 authorization. Built with Next.js, TypeScript, and Supabase. | [Code](https://github.com/E1eng/movesafe) · [Website](https://movesafe.eleng.xyz) |
+| **Poseidon Voice Data Collection** | Dashboard tracking voice-data collection counts across 16 language collections on Story Protocol. Built with JavaScript, Node.js, and Express. | [Code](https://github.com/E1eng/Poseidon-Voice-Data-Collection) · [Website](https://psdn-collection.eleng.xyz/) |
 
 ## Technologies Used
 
